@@ -126,7 +126,6 @@ public class Bazargrafica extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void editarstokActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_editarstokActionPerformed
-        // TODO add your handling code here:
     }//GEN-LAST:event_editarstokActionPerformed
 
     private void insertarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_insertarActionPerformed
